@@ -1,0 +1,3 @@
+Result:
+ hello from 1st text file
+ hello from 2nd text file 
